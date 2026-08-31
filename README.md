@@ -39,13 +39,13 @@ A partir de los polos seleccionados, el programa calcula un compensador dinámic
 
 ## Funcionamiento del programa
 
-Al ejecutar el programa en mathlab, se solicitan los siguientes datos:
+Al ejecutar el programa en mathlab, se solicitan los siguientes datos de la siguiente:
 
 1. **Ceros de la planta**
 2. **Polos de la planta**
 3. **Ganancia de la planta**
 
-Por ejemplo:
+Ejemplo de como se debe ingresar los datos:
 
 ```matlab
 Ceros = []
